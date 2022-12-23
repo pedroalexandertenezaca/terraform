@@ -4,10 +4,10 @@ Infraestructura como codigo (IAC)
 ## Capitulo 1
 Es una practica que utiliza principios de desarrollo de software buscando automatizar los procesos de crear infraestructura.
 Los principios que siguen son:
-- Se puede reproducir facilmente (Si tengo archivo de definicion se puede automatizar)
-- Son desechables
+- Los sistemas se puede reproducir facilmente (Si tengo archivo de definicion se puede automatizar)
+- Los sistemas son desechables
 - Los sistemas son consistentes (Se deberia reflejar lo que se definido)
-- Son repetibles
+- Los sistemas son repetibles
 - El diseño siempre esta cambiando (Si ya se tiene definido es mas facil hacer cambios)
 
 Practicas generales
